@@ -1,5 +1,6 @@
 % This script is a toplevel script that executes the users desired example case:
 Ts = 0.05
+load("RNN-Model-GUAM-DES-diag-v01")
 addpath('./Exec_Scripts/');
 u_choice = input(sprintf('Specify the desired example case to run:\n\t(1) Sinusoidal Timeseries\n\t(2) Hover to Transition Timeseries\n\t(3) Cruise Climbing Turn Timeseries\n\t(4) Ramp demo\n'));
 

@@ -1,1 +1,2 @@
-This project has been shared with Azmol to add Lafortune's diagnoser to the simulation
+The Demo branch was added for preparing the Simulink for demo presentation05/07/2025
+
